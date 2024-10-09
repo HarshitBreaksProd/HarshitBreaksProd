@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harshit</h1>
 <h3 align="center">A passionate Web developer from India, Trying to make it into the web dev world.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshitcodes2&label=Profile%20views&color=0e75b6&style=flat" alt="harshitcodes2" /> </p>
+<p align="left"> [![](https://visitcount.itsvg.in/api?id=HarshitCodes2&icon=2&color=2)](https://visitcount.itsvg.in) </p>
 
 - 🔭 I’m currently working on [COHORT-3.0 by Harkirat](https://github.com/HarshitCodes2/COHORT_3)
 
@@ -30,3 +30,25 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
+
+# 💫 About Me:
+🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=HarshitCodes2&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=HarshitCodes2&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitCodes2&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=HarshitCodes2&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=HarshitCodes2&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=HarshitCodes2&icon=2&color=2)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
