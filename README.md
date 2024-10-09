@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Django, Javascript, Python and more**
 
-- 📫 How to reach me **https://twitter.com/HarshitCodes2 || www.linkedin.com/in/harshit-codes2**
+- 📫 How to reach me **[X](https://twitter.com/HarshitCodes2) || [linkedIn](www.linkedin.com/in/harshit-codes2)**
 
 - ⚡ Fun fact **Co-Founded IoT club at my College**
 
