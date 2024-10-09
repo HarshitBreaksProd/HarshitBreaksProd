@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harshit</h1>
-<h3 align="center">A passionate frontend developer from India, Trying to make it into the web dev world.</h3>
+<h3 align="center">A passionate Web developer from India, Trying to make it into the web dev world.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshitcodes2&label=Profile%20views&color=0e75b6&style=flat" alt="harshitcodes2" /> </p>
 
