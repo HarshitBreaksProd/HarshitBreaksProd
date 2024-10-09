@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harshit</h1>
 <h3 align="center">A passionate Web developer from India, Trying to make it into the web dev world.</h3>
 
-[![](https://visitcount.itsvg.in/api?id=HarshitCodes2&icon=2&color=2)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=HarshitCodes2&label=Profile%20Views&color=9&pretty=true)](https://visitcount.itsvg.in)
 
 - 🔭 I’m currently working on [COHORT-3.0 by Harkirat](https://github.com/HarshitCodes2/COHORT_3)
 
