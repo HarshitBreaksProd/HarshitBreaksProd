@@ -63,7 +63,7 @@
 <br/>
 <div align= center>
 
-[![Twitter Badge](https://img.shields.io/badge/-@yntpdotme-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/yntpdotme)](https://twitter.com/yntpdotme) &nbsp;&nbsp; [![Linkedin Badge](https://img.shields.io/badge/-yntpdotme-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yntpdotme/) &nbsp;&nbsp; [![Mail Badge](https://img.shields.io/badge/-kadlag14-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:kadlag14@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@yntpdotme-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/harshitcodes2)](https://twitter.com/harshitcodes2) &nbsp;&nbsp; [![Linkedin Badge](https://img.shields.io/badge/-yntpdotme-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://linkedin.com/in//in/harshit-codes2) &nbsp;&nbsp; [![Mail Badge](https://img.shields.io/badge/-kadlag14-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ga1harshit7@gmail.com)
 
 </div>
 </br>
@@ -91,7 +91,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,python,cpp&theme=dark" />
 </p>
 </div>
 
