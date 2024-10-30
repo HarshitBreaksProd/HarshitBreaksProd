@@ -34,16 +34,10 @@
 
 <h3 align="center">👨🏻‍💻 Venture Into My Digital Warehouse 𝌏</h3>
 
-<!-- Banner -->
-<p align="center">  
-  <br>
-  <img alt="Jio Network blocking the view? Network switch reveals the magic!"  src="./assets/banner.png">
-<p/>
-
 <!-- Typing SVG -->
 <p align ="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&pause=500&color=fdb74e&center=true&vCenter=true&lines=Full+Stack+Developer;DevOps+Evangelist;Community+Lead" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&pause=500&color=fdb74e&center=true&vCenter=true&lines=Full+Stack+Developer;Community+Lead" alt="Typing SVG"/>
   </a>
 </p>
 
@@ -63,7 +57,7 @@
 <br/>
 <div align= center>
 
-[![Twitter Badge](https://img.shields.io/badge/-@yntpdotme-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/harshitcodes2)](https://twitter.com/harshitcodes2) &nbsp;&nbsp; [![Linkedin Badge](https://img.shields.io/badge/-yntpdotme-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://linkedin.com/in//in/harshit-codes2) &nbsp;&nbsp; [![Mail Badge](https://img.shields.io/badge/-kadlag14-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ga1harshit7@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@harshitcodes2-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/harshitcodes2)](https://twitter.com/harshitcodes2) &nbsp;&nbsp; [![Linkedin Badge](https://img.shields.io/badge/-harshitcodes2-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://linkedin.com/in//in/harshit-codes2) &nbsp;&nbsp; [![Mail Badge](https://img.shields.io/badge/-HarshitGupta-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ga1harshit7@gmail.com)
 
 </div>
 </br>
