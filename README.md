@@ -1,3 +1,4 @@
+<!--
 <h1 align="center">Hi 👋, I'm Harshit</h1>
 <h3 align="center">A passionate Web developer from India, Trying to make it into the web dev world.</h3>
 
@@ -29,3 +30,122 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+-->
+
+<h3 align="center">👨🏻‍💻 Venture Into My Digital Warehouse 𝌏</h3>
+
+<!-- Banner -->
+<p align="center">  
+  <br>
+  <img alt="Jio Network blocking the view? Network switch reveals the magic!"  src="./assets/banner.png">
+<p/>
+
+<!-- Typing SVG -->
+<p align ="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&pause=500&color=fdb74e&center=true&vCenter=true&lines=Full+Stack+Developer;DevOps+Evangelist;Community+Lead" alt="Typing SVG"/>
+  </a>
+</p>
+
+<h3 align="center"> 
+  I'm JavaScript Full Stack Web Developer based in India 🇮🇳.
+</h3>
+
+<p align="center">
+  Currently building my GitHub Portfolio with Basic Projects and Gearing Up for the Next Level.
+</p>
+<br/>
+
+<!-- Social Media Links -->
+
+## 📬 Opportunities knocks!🚪 Let's chat.
+
+<br/>
+<div align= center>
+
+[![Twitter Badge](https://img.shields.io/badge/-@yntpdotme-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/yntpdotme)](https://twitter.com/yntpdotme) &nbsp;&nbsp; [![Linkedin Badge](https://img.shields.io/badge/-yntpdotme-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yntpdotme/) &nbsp;&nbsp; [![Mail Badge](https://img.shields.io/badge/-kadlag14-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:kadlag14@gmail.com)
+
+</div>
+</br>
+
+<!-- More About Me -->
+
+## 🙋‍♂️ About Me
+
+- #### 🔭 I’m currently following <a herf="https://harkirat.classx.co.in/new-courses">COHORT 3.0</a>
+
+- #### 🌱 I’m currently learning MERN Stack
+
+- #### 🎯 2024 Goals: MERN Stack Ninja 🥷🏻.
+
+- #### 🙋🏻 Happy to connect Amazing folks and build Awesome network.
+
+<br/><br/>
+
+<!-- Technologies that I'm working with -->
+
+## ⚡️ Tech-Stack
+
+### <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 22px align="top"/> &nbsp;&nbsp;Languages:
+
+<div align="center">
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript&theme=dark" />
+</p>
+</div>
+
+### 🧩 &nbsp;&nbsp;Libraries & Frameworks :
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tailwind,react,nodejs,express,htmx&theme=dark" />
+</p>
+
+<!--
+### ∞ &nbsp; DevOps:
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux&theme=dark" />
+</p>
+
+-->
+
+### 🗄️ &nbsp;Databases:
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongo,mysql&theme=dark" />
+</p>
+
+### 🛠️ &nbsp;Tools:
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,bash&theme=dark" />
+</p>
+
+<br/><br/>
+
+<!-- GitHub Activity Tracker -->
+
+## 👨🏻‍💻 Activity Monitor
+
+<br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitCodes2&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="My GitHub Streak"/>
+</p>
+
+<br/>
+
+<!-- GitHub Stats -->
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" align="top"> GitHub Statistics
+
+<br/>
+<p align="center">
+  <img alt="Harshit Gupta's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitcodes2&langs_count=8&count_private=true&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117"/>
+<p/>
+
+<p align="center">
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</p>
+
+<br/>
