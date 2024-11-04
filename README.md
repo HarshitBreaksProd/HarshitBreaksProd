@@ -12,7 +12,7 @@
 </h3>
 
 <p align="center">
-  Currently building my GitHub Portfolio with Basic Projects and Gearing Up for the Next Level.
+  Currently building my GitHub Portfolio with Projects and Gearing Up for the Next Level.
 </p>
 <br/>
 
