@@ -51,7 +51,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,python,cpp&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,python,cpp&theme=dark" />
 </p>
 </div>
 
