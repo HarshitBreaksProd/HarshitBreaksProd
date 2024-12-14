@@ -86,14 +86,14 @@
 
 <!-- GitHub Activity Tracker -->
 
-## 👨🏻‍💻 Activity Monitor
+<!-- ## 👨🏻‍💻 Activity Monitor
 
 <br/>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitCodes2&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="My GitHub Streak"/>
 </p>
 
-<br/>
+<br/> -->
 
 <!-- GitHub Stats -->
 
