@@ -8,7 +8,7 @@
 </p>
 
 <h3 align="center"> 
-  I'm JavaScript Full Stack Web Developer based in India 🇮🇳.
+  I'm Typescript, Python Full Stack Web Developer based in India 🇮🇳.
 </h3>
 
 <p align="center">
@@ -34,9 +34,9 @@
 
 - #### 🔭 I’m currently following <a herf="https://harkirat.classx.co.in/new-courses">COHORT 3.0</a>
 
-- #### 🌱 I’m currently learning MERN Stack
+- #### 🌱 I’m currently learning NextJS, DevOps, t3stack and more...
 
-- #### 🎯 2024 Goals: MERN Stack Ninja 🥷🏻.
+- #### 🎯 2025 Goals: Built like a Senior Developer 🥷🏻.
 
 - #### 🙋🏻 Happy to connect Amazing folks and build Awesome network.
 
