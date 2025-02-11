@@ -73,7 +73,7 @@
 ### 🗄️ &nbsp;Databases:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongo,mysql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mongo,postgres&theme=dark" />
 </p>
 
 ### 🛠️ &nbsp;Tools:
