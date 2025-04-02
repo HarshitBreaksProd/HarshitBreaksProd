@@ -1,3 +1,5 @@
+### <img width="749" alt="Screenshot 2025-04-02 at 12 47 43" src="https://github.com/user-attachments/assets/ee93b7aa-0175-4810-ba86-436f0de4d745" />
+
 <h3 align="center">👨🏻‍💻 Venture Into My Digital Warehouse 𝌏</h3>
 
 <!-- Typing SVG -->
