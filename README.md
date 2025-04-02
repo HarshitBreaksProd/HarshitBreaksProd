@@ -1,36 +1,24 @@
-### <img width="749" alt="Screenshot 2025-04-02 at 12 47 43" src="https://github.com/user-attachments/assets/ee93b7aa-0175-4810-ba86-436f0de4d745" />
+<img width="100%" alt="Screenshot 2025-04-02 at 12 46 42" src="https://github.com/user-attachments/assets/c1eb9407-983d-475a-be9a-13c172e8fb74" />
 
-<h3 align="center">👨🏻‍💻 Venture Into My Digital Warehouse 𝌏</h3>
-
-<!-- Typing SVG -->
-<p align ="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&pause=500&color=fdb74e&center=true&vCenter=true&lines=Full+Stack+Developer;Community+Lead" alt="Typing SVG"/>
-  </a>
-</p>
 
 <h3 align="center"> 
   I'm Typescript, Python Full Stack Web Developer based in India 🇮🇳.
 </h3>
 
 <p align="center">
-  Currently building my GitHub Portfolio with Projects and Gearing Up for the Next Level.
+  Working as a Remote FullStack developer at a US based Startup
 </p>
 <br/>
 
-<!-- Social Media Links -->
-
-## 📬 Opportunities knocks!🚪 Let's chat.
+## Have something interesting to share? You can reach out to me via: 
 
 <br/>
 <div align= center>
 
-[![Twitter Badge](https://img.shields.io/badge/-@harshitcodes2-1e1e1e?style=flat&labelColor=1e1e1e&logo=x&logoColor=white&link=https://x.com/harshitcodes2)](https://twitter.com/harshitcodes2) &nbsp;&nbsp; [![Linkedin Badge](https://img.shields.io/badge/-harshitcodes2-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshit-codes2) &nbsp;&nbsp; [![Mail Badge](https://img.shields.io/badge/-HarshitGupta-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:g1harshit7@gmail.com)
+[![X](https://img.shields.io/badge/-@harshitcodes2-1e1e1e?logo=X&logoColor=white)](https://twitter.com/harshitcodes2) &nbsp;&nbsp; [![LinkedIn](https://custom-icon-badges.demolab.com/badge/-harshitcodes2-0e76a8?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/harshit-codes2) &nbsp;&nbsp; [![Gmail](https://img.shields.io/badge/-HarshitGupta-c0392b?logo=gmail&logoColor=white)](mailto:g1harshit7@gmail.com)
 
 </div>
 </br>
-
-<!-- More About Me -->
 
 ## 🙋‍♂️ About Me
 
