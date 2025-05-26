@@ -6,7 +6,7 @@
 </h3>
 
 <p align="center">
-  Working as a Remote FullStack developer at a US based Startup
+  Working on myself right now, Check my progress in Super30 aftermath repo.
 </p>
 <br/>
 
