@@ -15,7 +15,7 @@
 <br/>
 <div align= center>
 
-[![X](https://img.shields.io/badge/-@harshitcodes2-1e1e1e?logo=X&logoColor=white)](https://twitter.com/harshitcodes2) &nbsp;&nbsp; [![LinkedIn](https://custom-icon-badges.demolab.com/badge/-harshitcodes2-0e76a8?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/harshit-codes2) &nbsp;&nbsp; [![Gmail](https://img.shields.io/badge/-HarshitGupta-c0392b?logo=gmail&logoColor=white)](mailto:g1harshit7@gmail.com)
+[![X](https://img.shields.io/badge/-@I_Break_Prod-1e1e1e?logo=X&logoColor=white)](https://twitter.com/i_break_prod) &nbsp;&nbsp; [![LinkedIn](https://custom-icon-badges.demolab.com/badge/-HarshitBreaksProd-0e76a8?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/harshit-breaks-prod) &nbsp;&nbsp; [![Gmail](https://img.shields.io/badge/-HarshitGupta-c0392b?logo=gmail&logoColor=white)](mailto:g1harshit7@gmail.com)
 
 </div>
 </br>
