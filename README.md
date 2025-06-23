@@ -80,7 +80,7 @@
 
 <br/>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitCodes2&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="My GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitbreaksprod&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="My GitHub Streak"/>
 </p>
 
 <br/> -->
@@ -91,7 +91,7 @@
 
 <br/>
 <p align="center">
-  <img alt="Harshit Gupta's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitcodes2&langs_count=8&count_private=true&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117"/>
+  <img alt="Harshit Gupta's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitBreaksProd&langs_count=6&count_private=true&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117"/>
 <p/>
 
 <p align="center">
